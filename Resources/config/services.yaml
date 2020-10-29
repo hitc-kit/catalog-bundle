@@ -1,0 +1,11 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+
+    HitcKit\CatalogBundle\Controller\:
+        resource: '../../Controller/*'
+        tags: [ 'controller.service_arguments' ]
+
+    HitcKit\CatalogBundle\Services\:
+        resource: '../../Services/*'
