@@ -2,7 +2,7 @@
 
 namespace HitcKit\CatalogBundle\Services;
 
-use HitcKit\CatalogBundle\Controller\Site\DefaultController;
+use HitcKit\CatalogBundle\Controller\DefaultController;
 // use HitcKit\CoreBundle\Entity\Node;
 use HitcKit\CoreBundle\Services\BaseTypeTrait;
 use HitcKit\CoreBundle\Services\NodeTypeInterface;
