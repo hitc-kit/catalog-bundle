@@ -1,1 +1,1 @@
-Каталог hitc-kit/cms
+Каталог для «hitc-kit/cms»

@@ -1,7 +1,7 @@
 {
     "name": "hitc-kit/catalog-bundle",
     "type": "symfony-bundle",
-    "description": "Каталог hitc-kit/cms",
+    "description": "Каталог для «hitc-kit/cms»",
     "license": "MIT",
     "authors": [
         {

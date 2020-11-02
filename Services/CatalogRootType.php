@@ -13,7 +13,7 @@ class CatalogRootType implements NodeTypeInterface
 
     public static function getName(): string
     {
-        return 'hitc_kit_core.catalog_root_type';
+        return 'hitckit_catalog.root';
     }
 
     public function getNameController(): string
